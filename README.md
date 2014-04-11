@@ -1,4 +1,4 @@
-QuartzEngine
+Quartz Engine (Latest: 0.2.0 Alpha Minus)
 ============
 
-My 2D game engine (in Java)
+The sourcecode for Quartz Engine!  See the coding behind Quartz and some tutorials.

@@ -1,23 +1,23 @@
 QuartzEngine Changelog:
 ==============
 
-<strong>AlphaMinus (Pre Alpha) </strong>
-0.1.0 : MAJOR: Initial Creation
-- Image rendering
-- Window creation
+<strong>Alpha Minus (Pre Alpha) </strong> <br><br>
+<strong>0.1.0 : MAJOR</strong>: Initial Creation<br>
+&#45; Image rendering<br>
+&#45; Window creation<br>
 
-0.1.1 : MAJOR: Bug Fixes
-- Fixed 'run.qrf not found' exception -- only when using JAR libs
+<strong>0.1.1 : MAJOR</strong>: Bug Fixes <br>
+&#45; Fixed 'run.qrf not found' exception -- only when using JAR libs <br>
 
-0.1.2 : MAJOR: Fixed Class Finding
-- Fixed 'class [YOUR CLASS] not found' exception
+<strong>0.1.2 : MAJOR</strong>: Fixed Class Finding<br>
+&#45; Fixed 'class [YOUR CLASS] not found' exception<br>
 
-0.1.3 : MAJOR: Fixed File Reading
-- Fixed 'run.qrf not found'  exception --even when using the original SRC
+<strong>0.1.3 : MAJOR</strong>: Fixed File Reading<br>
+&#45; Fixed 'run.qrf not found'  exception --even when using the original SRC<br>
 
-0.2.0 : BIG UPDATE  : Re-Wrote the loading script -- now uses ARGS
-- Now uses ARGUMENTS in running, not files!
-- A lot easier to use -- more friendly (in JAR form)
-- A lot cleaner -- neater methods (Code wise)
-- Some unnecessary classes deleted -- Shapes, Resources - etc
-- Easier to use annotations -- @Quartz, @Render - etc
+<strong>0.2.0 : BIG UPDATE</strong>: Re wrote the loading script -- now uses arguments<br>
+&#45; Now uses ARGUMENTS in running, not files!<br>
+&#45; A lot easier to use -- more friendly (in JAR form)<br>
+&#45; A lot cleaner -- neater methods (Code wise)<br>
+&#45; Some unnecessary classes deleted -- Shapes, Resources - etc<br>
+&#45; Easier to use annotations -- @Quartz, @Render - etc<br>

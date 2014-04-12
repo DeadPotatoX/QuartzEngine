@@ -428,3 +428,15 @@ footer {
     color:#444;
   }
 }
+
+#header img { 
+  margin-top: 25px;
+  margin-bottom: 25px;
+  vertical-align: middle;
+}
+
+#header h1 {
+  margin: 0 0 0 0;
+  padding-left: 10px;
+  display: inline;
+}

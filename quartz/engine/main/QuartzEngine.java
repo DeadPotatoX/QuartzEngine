@@ -188,7 +188,9 @@ public class QuartzEngine extends Canvas implements Runnable {
 			
 			if (System.currentTimeMillis() - tmr > 1000) {
 				tmr += 1000;
-				quartzFrame.setTitle(title + " | FPS: " + debugs[0] + " UPS: " + debugs[1]);
+				if (quartzGame.showDebug()) {
+					quartzFrame.setTitle(title + " | FPS: " + debugs[0] + " UPS: " + debugs[1]);
+				}
 				debugs = new double[2];
 			}
 		}

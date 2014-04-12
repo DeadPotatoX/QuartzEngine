@@ -21,3 +21,6 @@ QuartzEngine Changelog:
 &#45; A lot cleaner -- neater methods (Code wise)<br>
 &#45; Some unnecessary classes deleted -- Shapes, Resources - etc<br>
 &#45; Easier to use annotations -- @Quartz, @Render - etc<br>
+
+<strong>0.2.1 : MINOR</strong>: More Parameters for @Quartz work<br>
+&#45; showDebug now works!  Editing whether or not to put debug variables onto the end of the title 
